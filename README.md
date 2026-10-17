@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # GitHub Practice Website
 
@@ -13,3 +14,7 @@ This is my personal practice project for learning Git and GitHub.
 - Push and pull changes.
 - Create pull requests.
 - Practise team collaboration.
+=======
+# GitHub-Practice-Website
+i am learnig line by line...
+>>>>>>> origin/main
